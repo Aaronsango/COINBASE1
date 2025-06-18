@@ -117,21 +117,17 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>پشتیبانی نوبیتکس، تیم خدمات مشتریان نوبیتکس، یک پلتفرم آنلاین محبوب برای خرید، فروش و ذخیره ارزهای دیجیتال مانند بیت‌کوین، اتریوم و سایر ارزها است.
+            <p>Coinbase Support is the customer service team for Coinbase, a popular online platform for buying, selling, and storing cryptocurrencies like Bitcoin, Ethereum, and others.
 
+The Coinbase Support team is responsible for:
 
-تیم پشتیبانی نوبیتکس مسئول موارد زیر است:
+1. Answering questions about Coinbase services and features.
 
-1. پاسخ به سوالات در مورد خدمات و ویژگی‌های نوبیتکس.
+2. Resolving issues with accounts, transactions, and payments.
 
-2. حل مشکلات مربوط به حساب‌ها، تراکنش‌ها و پرداخت‌ها.
+3. Providing guidance on security, verification, and compliance.
 
-3. ارائه راهنمایی در مورد امنیت، تأیید و انطباق.
-
-4. کمک به مشکلات فنی، مانند مشکلات ورود به سیستم یا اتصال.
-
-
-معمولاً می‌توانید از طریق اینجا با پشتیبانی نوبیتکس تماس بگیرید..</p>
+4. Assisting with technical problems, such as login or connectivity issues.</p>
           </div>
         `
         break
